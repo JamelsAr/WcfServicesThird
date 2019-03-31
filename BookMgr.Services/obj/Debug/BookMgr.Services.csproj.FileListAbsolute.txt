@@ -1,0 +1,16 @@
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\BookMgr.Services.dll.config
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\BookMgr.Services.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\BookMgr.Services.pdb
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\BookMgr.Common.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\BookMgr.Model.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\EntityFramework.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\EntityFramework.SqlServer.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\BookMgr.Common.pdb
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\BookMgr.Model.pdb
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\EntityFramework.xml
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\EntityFramework.SqlServer.xml
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\zh-Hans\EntityFramework.resources.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\obj\Debug\BookMgr.Services.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\obj\Debug\BookMgr.Services.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Services\obj\Debug\BookMgr.Services.pdb

@@ -1,0 +1,5 @@
+E:\Y2\WCF\WcfServicesThird\BookMgr.Common\bin\Debug\BookMgr.Common.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Common\bin\Debug\BookMgr.Common.pdb
+E:\Y2\WCF\WcfServicesThird\BookMgr.Common\obj\Debug\BookMgr.Common.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Common\obj\Debug\BookMgr.Common.pdb
+E:\Y2\WCF\WcfServicesThird\BookMgr.Common\obj\Debug\BookMgr.Common.csprojResolveAssemblyReference.cache

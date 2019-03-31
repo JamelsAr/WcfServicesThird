@@ -1,0 +1,12 @@
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\BookMgr.Model.dll.config
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\BookMgr.Model.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\BookMgr.Model.pdb
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\EntityFramework.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\EntityFramework.xml
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\obj\Debug\BookMgr.Model.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\obj\Debug\BookMgr.Model.pdb
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Y2\WCF\WcfServicesThird\BookMgr.Model\obj\Debug\BookMgr.Model.csprojResolveAssemblyReference.cache
